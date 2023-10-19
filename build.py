@@ -7,8 +7,8 @@ current_directory = os.getcwd()
 folder = f"{current_directory}/wallpaper"
 thumbnail_folder = f"{current_directory}/wallpaper-thumbnail"
 
-raw_thumbnail_baselink = "https://raw.githubusercontent.com/msm-linux/msm-wallpaper-index-source/main/wallpaper-thumbnail/"
-raw_main_baselink = "https://raw.githubusercontent.com/msm-linux/msm-wallpaper-index-source/main/wallpaper/"
+raw_thumbnail_baselink = "https://raw.githubusercontent.com/MSM74588/msm-catpuccin-cassete-wallpaper-source/main/wallpaper-thumbnail/"
+raw_main_baselink = "https://raw.githubusercontent.com/MSM74588/msm-catpuccin-cassete-wallpaper-source/main/wallpaper/"
 
 # Create the thumbnail folder if it does not already exist
 if not os.path.exists(thumbnail_folder):
